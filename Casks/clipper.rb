@@ -1,6 +1,6 @@
 cask "clipper" do
   version "1.0.0"
-  sha256 "2a3e339d1c0406e0045aec48c3f6aa0db2068fd047be8d9dd820c6c9cbd66fc9"
+  sha256 "eee7489e17d227c4d856756c209c89bba19ab318d7365146a9f8abc86661ee76"
 
   url "https://github.com/gowtham980/Clipper/releases/download/v#{version}/Clipper-#{version}.zip"
   name "Clipper"
